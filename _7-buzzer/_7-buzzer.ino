@@ -3,6 +3,8 @@
 // Referred:
 // https://create.arduino.cc/projecthub/SURYATEJA/use-a-buzzer-module-piezo-speaker-using-arduino-uno-89df45
 
+// The polarity of buzzer matters, see the positive negative sign
+
 int buzzPin = 9; 
 int dtime = 500;
 
